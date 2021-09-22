@@ -35,10 +35,10 @@ plugins:
 aux_links:
     "Author":
       - "https://www.nicolafiorillo.com"
-    "Issues":
-      - "https://github.com/nicolafiorillo/the_software_architect_role/issues"
-    "Source":
-      - "https://github.com/nicolafiorillo/the_software_architect_role/"
+    # "Issues":
+    #   - "https://github.com/nicolafiorillo/the_software_architect_role/issues"
+    # "Source":
+    #   - "https://github.com/nicolafiorillo/the_software_architect_role/"
 
 aux_links_new_tab: true
 
