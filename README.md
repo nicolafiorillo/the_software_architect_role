@@ -1,3 +1,11 @@
+<div align="center">
+ <img src="https://raw.githubusercontent.com/nicolafiorillo/the_software_architect_role/images/the_software_architect_role.webp" width="700" alt="The Software Architect Role" style="border-radius: 5%">
+ <br>
+ <strong>
+   Opinionated checklist to cover every single aspect of a (ideal) software
+ </strong>
+</div>
+
 # The Software Architect Role
 
 ## 00. Introduction
