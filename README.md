@@ -1,12 +1,12 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/nicolafiorillo/the_software_architect_role/main/images/the_software_architect_role.webp" width="700" alt="The Software Architect Role" style="border-radius: 5%">
+ <img src="https://raw.githubusercontent.com/nicolafiorillo/the_software_architect_role/main/images/the_software_architect_role.webp" width="600" alt="The Software Architect Role" style="border-radius: 5%">
  <br>
  <strong>
-   Opinionated checklist to cover every single aspect of a (ideal) software
+   Opinionated checklist/notes to cover every single aspect of a (ideal) software project
  </strong>
 </div>
 
-# 00. Introduction
+# Introduction
 
 Goal is to have a tool to verify every single aspect of a (ideally software) project.
 	
@@ -34,7 +34,7 @@ This check-list tries to be as holistic as possible, gathering information also 
 		* extensibility
 		* scalability
 
-# 02. Be prepared
+# Be prepared
 
 _"No matter what they tell you, it's always a people problem."_ - Gerald Weinberg
 
@@ -96,7 +96,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * listen and do not justify
 * “_If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea._” - The Little Prince
 
-# 10. Business analysys
+# Business analysys
 
 * Why(s)
 	* Why building *this* solution?
@@ -111,7 +111,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 		* che problemi possono impedire
 		* perchè non è stato fatto prima?
 
-# 20. Solution goals
+# Solution goals
 
 * User goals
 	* Defining personas
@@ -127,7 +127,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 	* Define (high level) non-functional requirements
 	* Requirements not to be considered
 
-# 30. People
+# People
 
 * Identify stakeholder
 	* Project Manager
@@ -149,7 +149,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * talk the people languages
 * always consider the people experience
 
-# 40. Analysis
+# Analysis
 
 * ADR
 * Alternative solutions/competitors investigation
@@ -324,7 +324,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 		* retention period
 		* classification
 
-# 50. Development
+# Development
 
 * Skills required
 * Create alias for email-team (inside and outside communication)
@@ -470,9 +470,9 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * prototyping
 	* both architectures and major requirements
 
-# 60. Deploy and Release
+# Deploy and Release
 
-# 70. Notes
+# Notes
 
 * Technical specs document
 	* https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/
