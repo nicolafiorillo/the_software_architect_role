@@ -1,20 +1,18 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/nicolafiorillo/the_software_architect_role/images/the_software_architect_role.webp" width="700" alt="The Software Architect Role" style="border-radius: 5%">
+ <img src="https://raw.githubusercontent.com/nicolafiorillo/the_software_architect_role/main/images/the_software_architect_role.webp" width="700" alt="The Software Architect Role" style="border-radius: 5%">
  <br>
  <strong>
    Opinionated checklist to cover every single aspect of a (ideal) software
  </strong>
 </div>
 
-# The Software Architect Role
-
-## 00. Introduction
+# 00. Introduction
 
 Goal is to have a tool to verify every single aspect of a (ideally software) project.
 	
 This check-list tries to be as holistic as possible, gathering information also for secondary (but not less important) aspects; tuttavia, it is more sbilanciato verso a software architecture role.
 
-### Drivers
+## Drivers
 
 * business
 	* goal/vision
@@ -36,11 +34,11 @@ This check-list tries to be as holistic as possible, gathering information also 
 		* extensibility
 		* scalability
 
-## 02. Be prepared
+# 02. Be prepared
 
 _"No matter what they tell you, it's always a people problem."_ - Gerald Weinberg
 
-### Know your customer(s)
+## Know your customer(s)
 
 * Company values and mission, culture
 	* discover the "why" of the company
@@ -50,7 +48,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 	* learn the business domain
 	* "_The most valuable asset in the software industry is the synthesis of programming skills and deep context in the business problem domain in one skull. That is architecture._" James Coplien
 
-### Behave yourself
+## Behave yourself
 
 * Remember to listen
 * respect the company's past
@@ -60,7 +58,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 	* absorb (different level of) stakeholder terminology
 * be prepared to work with both technical (how) and non-technical stakeholder (what and why)
 
-### Be professional
+## Be professional
 
 * Apply the 5 why(s) approach
 * focus on results than processes
@@ -75,7 +73,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 	* beware the complete rewrite
 	* Architect is a "domain expert who codes"
 
-### Be a leader
+## Be a leader
 
 * Values first
 	* define YOUR values
@@ -98,7 +96,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * listen and do not justify
 * “_If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea._” - The Little Prince
 
-## 10. Business analysys
+# 10. Business analysys
 
 * Why(s)
 	* Why building *this* solution?
@@ -113,7 +111,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 		* che problemi possono impedire
 		* perchè non è stato fatto prima?
 
-## 20. Solution goals
+# 20. Solution goals
 
 * User goals
 	* Defining personas
@@ -129,7 +127,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 	* Define (high level) non-functional requirements
 	* Requirements not to be considered
 
-## 30. People
+# 30. People
 
 * Identify stakeholder
 	* Project Manager
@@ -151,7 +149,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * talk the people languages
 * always consider the people experience
 
-## 40. Analysis
+# 40. Analysis
 
 * ADR
 * Alternative solutions/competitors investigation
@@ -326,7 +324,7 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 		* retention period
 		* classification
 
-## 50. Development
+# 50. Development
 
 * Skills required
 * Create alias for email-team (inside and outside communication)
@@ -472,9 +470,9 @@ _"No matter what they tell you, it's always a people problem."_ - Gerald Weinber
 * prototyping
 	* both architectures and major requirements
 
-## 60. Deploy and Release
+# 60. Deploy and Release
 
-## 70. Notes
+# 70. Notes
 
 * Technical specs document
 	* https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/
